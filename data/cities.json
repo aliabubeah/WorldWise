@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "DE",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "EG",
+      "date": "2025-10-06T15:28:50.443Z",
+      "notes": "halsdlf\n",
+      "position": {
+        "lat": "30.04197530876551",
+        "lng": "31.236877441406254"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Gaza",
+      "country": "Palestine, State of",
+      "emoji": "PS",
+      "date": "2025-10-09T15:02:30.576Z",
+      "notes": "هنروح قريبا بإذن الله فاتحين منتصرين ",
+      "position": {
+        "lat": "31.513210051394527",
+        "lng": "34.45861816406251"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "FR",
+      "date": "2025-10-11T12:32:47.409Z",
+      "notes": "اوسخ بلد في الدنيا",
+      "position": {
+        "lat": "48.839661083880564",
+        "lng": "2.4279785156250004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Assiut",
+      "country": "Egypt",
+      "emoji": "EG",
+      "date": "2004-03-06T13:36:22.000Z",
+      "notes": "HomeTown",
+      "position": {
+        "lat": "27.181416737794176",
+        "lng": "31.195678710937504"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Kabul",
+      "country": "Afghanistan",
+      "emoji": "AF",
+      "date": "2025-10-11T12:43:05.672Z",
+      "notes": "Happy jihad with the T BROS",
+      "position": {
+        "lat": "34.56484086463378",
+        "lng": "69.16992187500001"
+      },
+      "id": 98443205
+    }
+  ]
+}
